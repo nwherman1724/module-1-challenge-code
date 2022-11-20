@@ -1,0 +1,236 @@
+
+/* the padding and margin are set to 0 */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* the background color for the body is set*/
+body {
+    background-color: #d9dcd6;
+}
+
+/* this sets the padding, font family, background color and text color*/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* sets the display and font size */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* sets the text colot of all h1 elements in the header that have a class seo*/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* sets the padding, margin, float, font family and size for nav elements with a class header to */
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* sets the nav and ul elements list style type*/
+.header nav ul {
+    list-style-type: none;
+}
+
+/* sets the display and margin for the nav ul and li*/
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* sets the text color for the anchor tags and removes the text decoration*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* sets the font for all p elements*/
+p {
+    font-size: 16px;
+}
+
+/* sets the height, width, margin, background image, background size, and background position of the class hero*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* sets the float left and margin on the class float-left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* sets the float right and margin on the class float-right*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* sets the width, display style and margin on the class content*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* sets the margin, padding, clear, float, width, height, font family, and background color for the class benefits*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* sets the margin and text color for the class benefit-lead*/
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* sets the margin and text color for the class benefit-brand*/
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* sets the margin and text color for the class benefit-cost*/
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* sets the margin and text alignment for any h3 elements with the class benefit-lead*/
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* sets the margin and text alignment for any h3 elements with the class benefit-brand*/
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* sets the margin and text alignment for any h3 elements with the class benefit-cost*/
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* sets the display, margin and maximum width for any img elements with the class benefit-lead*/
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* sets the display, margin and maximum width for any img elements with the class benefit-brand*/
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* sets the display, margin and maximum width for any img elements with the class benefit-cost*/
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* sets the margin, padding, height, font family, background color and text color for the class search-engine-optimization*/
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* sets the margin, padding, height, font family, background color and text color for the class online-reputation-management*/
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* sets the margin, padding, height, font family, background color and text color for the class social-media-marketing*/
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* sets the max height for any img elements in the class search-engine-optimization*/
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* sets the max height for any img elements in the class online-reputation-management*/
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* sets the max height for any img elements in the class social-media-marketing*/
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* sets the margin and font size fo the h2 elements in the class search-engine-optimization*/
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* sets the margin and font size fo the h2 elements in the class online-reputation-management*/
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* sets the margin and font size fo the h2 elements in the class social-media-marketing*/
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* sets the padding, clear, font family, and text align for the class footer*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/* sets the font size for all h2 elements with the class footer*/
+.footer h2 {
+    font-size: 20px;
+}
