@@ -6,12 +6,12 @@
     margin: 0;
 }
 
-/* the background color for the body is set*/
+/* the background color for the body is set */
 body {
     background-color: #d9dcd6;
 }
 
-/* this sets the padding, font family, background color and text color*/
+/* this sets the padding, font family, background color and text color */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
