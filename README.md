@@ -5,7 +5,7 @@
 - Description
 - User Story
 - Accceptance Criteria
-- Assets
+- Screenshots
 - Credits
 
 ## Description
@@ -33,22 +33,13 @@ follow a logical structure independent of styling and positioning.
 
 * It's done WHEN I view the webpage and then the webpage meets accessibility standards.
 
-## Assets
+## Screenshots
 
-- Screenshots
 ![Alt text](assets/images/screenshot-1.png)
+
 ![Alt text](assets/images/screenshot-2.png)
+
 ![Alt text](assets/images/screenshot-3.png)
-
-The following images are used throughout the website:
-
-./assets/images/brand-awareness.png
-./assets/images/cost-management.png
-./assets/images/digital-marketing-meeting.jpg
-./assets/images/lead-generation.png
-./assets/images/online-reputation-management.jpg
-./assets/images/search-engine-optimization.jpg
-./assets/images/social-media-marketing.jpg
 
 ## Credits
 
