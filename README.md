@@ -51,3 +51,5 @@ The following images are used throughout the website:
 ./assets/images/social-media-marketing.jpg
 
 ## Credits
+
+Project provided by MSU Full-Stack Coding Bootcamp
