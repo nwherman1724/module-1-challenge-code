@@ -189,18 +189,8 @@ p {
     color: #ffffff;
 }
 
-/* sets the max height for any img elements in the class search-engine-optimization*/
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* sets the max height for any img elements in the class online-reputation-management*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* sets the max height for any img elements in the class social-media-marketing*/
-.social-media-marketing img {
+/* sets the max height for any img elements in the class height*/
+.height img{
     max-height: 200px;
 }
 
