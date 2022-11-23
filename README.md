@@ -4,18 +4,18 @@
 
 ## Acceptance Criteria
 
-* It's done WHEN I view the source code and THEN I find semantic HTML elements (x)
+* It's done WHEN I view the source code and THEN I find semantic HTML elements
 
 * It's done WHEN I view the structure of the HTML elements and THEN I find that the elements 
-follow a logical structure independent of styling and positioning (x)
+follow a logical structure independent of styling and positioning 
 
-* It's done WHEN I view the image elements and THEN I find accessible alt attributes (x)
+* It's done WHEN I view the image elements and THEN I find accessible alt attributes
 
-* It's done WHEN I view the heading attributes and THEN they fall in sequential order (x)
+* It's done WHEN I view the heading attributes and THEN they fall in sequential order
 
-* It's done WHEN I view the title element and THEN I find a concise, descriptive title (x)
+* It's done WHEN I view the title element and THEN I find a concise, descriptive title
 
-* It's done WHEN I view the webpage and then the webpage meets accessibility standards (x)
+* It's done WHEN I view the webpage and then the webpage meets accessibility standards
 
 ## Assets
 
